@@ -1,0 +1,15 @@
+activityId,activityParentId,activityParentName,calories,description,duration,hasActiveZoneMinutes,hasStartTime,isFavorite,lastModified,logId,name,startDate,startTime,steps,date
+90013,90013,Walk,170,"Walking less than 2 mph, strolling very slowly",2099000,True,True,False,2023-04-01T14:42:47.000Z,54826405968,Walk,2023-04-01,01:35,2902,2023-04-01
+90013,90013,Walk,87,"Walking less than 2 mph, strolling very slowly",1127000,True,True,False,2023-04-01T14:42:47.000Z,54826405971,Walk,2023-04-01,16:09,1447,2023-04-01
+90013,90013,Walk,506,"Walking less than 2 mph, strolling very slowly",6195000,True,True,False,2023-04-02T22:10:39.000Z,54850845704,Walk,2023-04-02,19:04,8970,2023-04-02
+90013,90013,Walk,70,"Walking less than 2 mph, strolling very slowly",921000,True,True,False,2023-04-06T12:15:08.000Z,54929929256,Walk,2023-04-05,17:17,1262,2023-04-05
+90013,90013,Walk,434,"Walking less than 2 mph, strolling very slowly",4352000,True,True,False,2023-04-06T14:48:27.000Z,54932851904,Walk,2023-04-06,15:02,7156,2023-04-06
+3000,3000,Workout,0,,17000,True,True,False,2023-04-21T16:09:17.000Z,55221676107,Workout,2023-04-17,11:29,0,2023-04-17
+90013,90013,Walk,119,"Walking less than 2 mph, strolling very slowly",1382000,True,True,False,2023-04-21T15:28:00.000Z,55257853099,Walk,2023-04-20,12:53,1863,2023-04-20
+90013,90013,Walk,270,"Walking less than 2 mph, strolling very slowly",3583000,True,True,False,2023-04-28T18:40:48.000Z,55422603451,Walk,2023-04-22,13:04,4100,2023-04-22
+90013,90013,Walk,191,"Walking less than 2 mph, strolling very slowly",2509000,True,True,False,2023-04-28T18:40:48.000Z,55422603454,Walk,2023-04-22,19:39,3263,2023-04-22
+90013,90013,Walk,155,"Walking less than 2 mph, strolling very slowly",1894000,True,True,False,2023-04-28T18:40:48.000Z,55422603456,Walk,2023-04-22,21:45,2706,2023-04-22
+90013,90013,Walk,83,"Walking less than 2 mph, strolling very slowly",1075000,True,True,False,2023-04-28T18:40:49.000Z,55422603458,Walk,2023-04-24,13:04,1297,2023-04-24
+90013,90013,Walk,105,"Walking less than 2 mph, strolling very slowly",1434000,True,True,False,2023-04-28T18:40:49.000Z,55422603463,Walk,2023-04-24,20:00,1648,2023-04-24
+90013,90013,Walk,175,"Walking less than 2 mph, strolling very slowly",1946000,True,True,False,2023-04-28T18:40:49.000Z,55422603467,Walk,2023-04-25,12:42,2805,2023-04-25
+90013,90013,Walk,363,"Walking less than 2 mph, strolling very slowly",5171000,True,True,False,2023-04-29T16:06:01.000Z,55439337001,Walk,2023-04-28,20:49,6269,2023-04-28
