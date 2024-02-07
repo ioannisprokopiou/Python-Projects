@@ -2,7 +2,7 @@
  
 ## Overview
 
-This repository is a collection of my Python projects aimed at exploring various packages, techniques, APIs and fraemworks. These projects are part of personal practice and academic projects designed to address a problem statement, showcasing the implementation and methodology followed. Currently 3 of the projects are also acompanied with a Medium tutorial
+This repository gathers my Python projects, delving into various packages, techniques, APIs, and frameworks. These projects, blending personal exploration and academic rigor, aim to solve specific problems while demonstrating the applied methodologies. Additionally, three projects are enhanced with detailed Medium tutorials, offering insights into their development and application
 
 <h2>My Projects</h2>
 <table>
